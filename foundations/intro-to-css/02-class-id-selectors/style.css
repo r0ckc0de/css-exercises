@@ -1,0 +1,17 @@
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#t2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#t3 {
+    font-size: 24px;
+}
+#t4 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: hsl(120, 73%, 75%);
+}
