@@ -1,4 +1,5 @@
-p {
+
+.odd {
     background-color: #ffc0cb;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -7,9 +8,12 @@ p {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
-#t3 {
+.t3 {
     font-size: 24px;
+    background-color: #ffc0cb;
+
 }
+
 #t4 {
     font-weight: bold;
     font-size: 24px;
